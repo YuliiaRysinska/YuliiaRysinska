@@ -1,16 +1,11 @@
-## Hi there 👋
+## Welcome to my GitHub profile 👋
+## About Me
+I'm Yuliia, an Application Analyst, QA Tester, and educated Data Analyst
+## Skills
+Programming Languages: Python, SQL, HTML, CSS
+Libraries/Frameworks: pandas, NumPy, Matplotlib, Seaborn, Flask
+Tools: Jupyter Notebooks, Visual Studio Code, Git, GitHub
+Databases: MySQL, Neo4j
+APIs: RESTful APIs
+## Projects
 
-<!--
-**YuliiaRysinska/YuliiaRysinska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
